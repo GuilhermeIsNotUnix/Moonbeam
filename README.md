@@ -9,13 +9,13 @@ Unfortunately, from the tests I did on Windows, some antiviruses remove the .exe
 
 # Compiling from source
 
-To compile basically you need to have all the imports, but Fyne have its requirements to work also, so you will need the **Go tools** (at least version 1.12), a **C compiler** (GCC for example, to connect with system graphics drivers) and a **system graphics driver**, make sure you have them first on your system, then execute:
+To compile basically you need to have all the imports, but Fyne have its requirements to work also, so you will need the **Go tools** (at least version > 1.16), a **C compiler** (GCC for example, to connect with system graphics drivers) and a **system graphics driver**, make sure you have them first on your system, then execute:
+
+$ cd moonbeam  
 
 $ go get fyne.io/fyne/v2@latest  
 
-$ go install fyne.io/fyne/v2/cmd/fyne@latest
-
-$ cd moonbeam
+$ go install fyne.io/fyne/v2/cmd/fyne@latest  
 
 $ go mod tidy
 
