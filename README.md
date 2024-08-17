@@ -1,4 +1,11 @@
 # Moonbeam
+<p align="center">
+  <img src="moonbeam.svg" width=40% heigth=40% alt="Moonbeam logo, Guilherme Faura">
+</p>
+
+<p align="center">Moonbeam, Guilherme Faura</p>
+
+<br>
 
 Moonbeam is a minimal Markdown text editor that aims to be distraction-free.  
 Moonbeam was made in Go and has no external dependencies other than the Fyne GUI library.  
