@@ -1,9 +1,9 @@
 # Moonbeam
 <p align="center">
-  <img src="moonbeam.svg" width=40% heigth=40% alt="Moonbeam logo, Guilherme Faura">
+  <img src="moonbeam.svg" width=30% heigth=30% alt="Moonbeam logo, Guilherme Faura">
 </p>
 
-<p align="center">Moonbeam, Guilherme Faura</p>
+<p align="center"><em>Moonbeam, Guilherme Faura.</em></p>
 
 <br>
 
