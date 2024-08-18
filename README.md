@@ -28,7 +28,7 @@ $ go install fyne.io/fyne/v2/cmd/fyne@latest
 
 $ go mod tidy
 
-$ fyne package -name Moonbeam -appVersion 0.4.2 -os windows -icon Icon.png
+$ fyne package -name Moonbeam -appVersion 0.4.2 -os windows -icon moonbeam.png
 
 (Or in case you need to change something, this is how you do it):
 
