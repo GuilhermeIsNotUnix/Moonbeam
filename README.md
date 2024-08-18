@@ -43,7 +43,7 @@ $ fyne package -name Moonbeam -appVersion 0.4.2 -os windows -icon moonbeam.png
 
 $ fyne package -name Name -appVersion {x.y.z} -os {windows or macos or linux} -icon Icon.png  
 
-### Post-compiling Linux/UNIX-based systems
+### Post-compiling installation on Linux/UNIX-based systems
 
 After compiling, you will have a .tar.xz output, you need to install Moonbeam for it to be effectively accessible on your Desktop Environment. Extract the .tar.xz, enter the extracted folder, you will see a Makefile file... 
 
