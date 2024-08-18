@@ -10,7 +10,7 @@
 ## What is Moonbeam?
 
 Moonbeam is a minimal Markdown text editor that aims to be distraction-free.  
-Moonbeam was made in Go and has no external dependencies other than the Fyne GUI library.  
+Moonbeam was made in the <a href="https://go.dev/" target="_blank">Go programming language</a> and has no external dependencies other than the <a href="https://fyne.io/" target="_blank">Fyne GUI library</a>.  
 
 ![Moonbeam screenshot in use](screenshot.png "Moonbeam screenshot in use")
 
